@@ -25,6 +25,21 @@ li {
     list-style: none;
 }
 
+small {
+    position: absolute;
+    left: 140px;
+
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .weather-app {
     border: 1px solid #dadde1;
     padding: 15px;
@@ -57,19 +72,4 @@ li {
 
 .days {
     margin-top: 20px;
-}
-
-small {
-    position: absolute;
-    left: 140px;
-    
-}
-
-a {
-    text-decoration: none;
-    background-color: transparent;
-}
-
-a:hover {
-    text-decoration: underline;
 }
