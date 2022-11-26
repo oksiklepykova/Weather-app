@@ -58,3 +58,18 @@ li {
 .days {
     margin-top: 20px;
 }
+
+small {
+    position: absolute;
+    left: 140px;
+    
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+    text-decoration: underline;
+}
